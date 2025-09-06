@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "name": "샘플 아이콘",
+      "path": "assets/sample.svg",
+      "note": "예시 항목 — 파일을 교체하거나 제거하세요"
+    }
+  ]
+}
