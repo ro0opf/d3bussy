@@ -64,3 +64,13 @@ section h2 { margin: 0 0 16px; }
   :root { scroll-behavior: smooth; }
 }
 
+/* simple table styling for asset page */
+.asset-table th, .asset-table td { border-bottom: 1px solid #2a2a30; }
+.asset-table input {
+  width: 100%;
+  padding: 6px 8px;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid #2a2a30;
+  border-radius: 8px;
+}
